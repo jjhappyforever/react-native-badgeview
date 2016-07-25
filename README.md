@@ -3,7 +3,7 @@ React Native自定义BadgeView组件
 
 使用方式:<br>
 
-` `` 
+···
 <BadgeView
       title='待付款'
       padding={8}
@@ -11,7 +11,6 @@ React Native自定义BadgeView组件
       badgeText={5}
       renderImage={()=><Image style={{width:30,height:30}} source={require('./images/myObligatiion.png')}/>}
 />
-` `` 
 <br>
 效果图：:
 <br>
